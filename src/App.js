@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Deployment Completed!
+          We are testing the Github workflow!
         </p>
         <a
           className="App-link"
