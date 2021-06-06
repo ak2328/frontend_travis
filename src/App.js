@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Back to Good Work!
+          Check Deployment!
         </p>
         <a
           className="App-link"
